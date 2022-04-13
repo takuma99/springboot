@@ -6,3 +6,5 @@
   - Open JDK 1.8 다운로드 및 압축해제
   - Spring Tools 4 압축해제
   - Github 마크다운 실습
+  - Spring 프로젝트 생성
+  - HelloController 작성
