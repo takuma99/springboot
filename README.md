@@ -9,3 +9,4 @@
   - Spring 프로젝트 생성
   - HelloController 작성 및 웹브라우저 접근
     ![image](https://user-images.githubusercontent.com/103575454/163183439-a2fe79e5-3835-4817-b10f-9c0093504dcd.png)
+  - 이클립스와 GitHub 연동 하다 잘 안됨
