@@ -14,3 +14,5 @@
 * Git 클라이언트 노트북 설치 (2022.05.12)
   - GitHub 클라이언트 포터블버전 노트북에 설치
   - 공개키 생성 및 GitHub 사이트에 등록
+  - 원격 레파지토리 연결
+  - ![image](https://user-images.githubusercontent.com/103575454/168077456-4f77a83d-f8c5-4f03-a551-1efd8207c1aa.png)
