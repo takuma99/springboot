@@ -16,3 +16,4 @@
   - 공개키 생성 및 GitHub 사이트에 등록
   - 원격 레파지토리 연결
   - ![image](https://user-images.githubusercontent.com/103575454/168077456-4f77a83d-f8c5-4f03-a551-1efd8207c1aa.png)
+  - ![image](https://user-images.githubusercontent.com/103575454/168078289-8bbb5582-2c4c-41e4-b8c1-467e601b34b6.png)
