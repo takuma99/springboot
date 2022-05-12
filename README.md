@@ -10,3 +10,7 @@
   - HelloController 작성 및 웹브라우저 접근
     ![image](https://user-images.githubusercontent.com/103575454/163183439-a2fe79e5-3835-4817-b10f-9c0093504dcd.png)
   - 이클립스와 GitHub 연동 하다 잘 안됨
+
+* Git 클라이언트 노트북 설치 (2022.05.12)
+  - GitHub 클라이언트 포터블버전 노트북에 설치
+  - 공개키 생성 및 GitHub 사이트에 등록
