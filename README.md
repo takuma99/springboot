@@ -17,3 +17,6 @@
   - 원격 레파지토리 연결
   - ![image](https://user-images.githubusercontent.com/103575454/168077456-4f77a83d-f8c5-4f03-a551-1efd8207c1aa.png)
   - ![image](https://user-images.githubusercontent.com/103575454/168078289-8bbb5582-2c4c-41e4-b8c1-467e601b34b6.png)
+
+* 아~~ 커밋이 안되!!!! 뭐가 잘못된거지??? 이미 시간은 22시 ㅠㅠ 
+  - ![image](https://user-images.githubusercontent.com/103575454/168078899-208de00f-e1ce-4417-9f11-033ba097aa99.png)
